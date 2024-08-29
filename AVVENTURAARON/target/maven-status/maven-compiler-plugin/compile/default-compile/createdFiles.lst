@@ -1,0 +1,14 @@
+game\Castello.class
+parser\Parser.class
+tipo\Oggetto.class
+game\Castello$1.class
+mainPackage\Engine.class
+mainPackage\Login$1.class
+parser\ParserOutput.class
+tipo\Contenitore.class
+mainPackage\DescrizioneGioco.class
+tipo\Comandi.class
+mainPackage\Utils.class
+tipo\ComandiTipo.class
+tipo\Stanza.class
+mainPackage\Login.class
