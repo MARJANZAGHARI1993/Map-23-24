@@ -1,4 +1,3 @@
-#MAP-2020-2021
 Progetto MAP dell'anno 2023-2024.
 
 Presentazione 
