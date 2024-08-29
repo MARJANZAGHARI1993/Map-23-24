@@ -1,4 +1,4 @@
-# MAP 23-24
+# Progetto Metodi Avanzati di Programmazione 
 
 Progetto MAP dell'anno 2023-2024.
 
@@ -7,6 +7,6 @@ Repository per l'esame di Metodi Avanzati di Programmazione, a.a. 23-24 - Univer
 
 Studenti:
 
-Zagharitafreshi Marjan   704820    m.zagharitafreshi@studenti.uniba.it
+Zagharitafreshi Marjan ,  704820 , m.zagharitafreshi@studenti.uniba.it
 
-Robles vincenza          728324    v.robles1@studenti.uniba.it
+Robles vincenza , 728324 , v.robles1@studenti.uniba.it
