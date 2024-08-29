@@ -1,4 +1,4 @@
-# MAP-23-24
+# MAP 23-24
 
 Progetto MAP dell'anno 2023-2024.
 
